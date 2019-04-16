@@ -1,0 +1,23 @@
+{
+  "name": "userterminal",
+  "version": "1.0.0",
+  "description": "detectar terminal de usuario en el backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spl-D3V/testUserTerminal.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "spedraza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spl-D3V/testUserTerminal/issues"
+  },
+  "homepage": "https://github.com/spl-D3V/testUserTerminal#readme"
+}
