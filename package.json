@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/spl-D3V/testUserTerminal/issues"
   },
-  "homepage": "https://github.com/spl-D3V/testUserTerminal#readme"
+  "homepage": "https://github.com/spl-D3V/testUserTerminal#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-device": "^0.4.2"
+  }
 }
